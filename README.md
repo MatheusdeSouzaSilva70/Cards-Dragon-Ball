@@ -5,14 +5,20 @@
 > Projeto pessoal de cards dos personagens do meu Anime favorito Dragon Ball.
 
 # Apresentando:
-### 1. Nesse projeto e posivel você ver o Poder de Luta, HP (VIDA), Velocidade Habilidades, Defesa, de cada um dos Pokemons
-#### Nome dos Pokemons 
-<P>1-Pikachu</P>
-<P>2-Bulbasaur</P>
-<P>3-Charmander</P>
-<P>4-Gyarados</P>
-<P>5-Gengar</P>
-<P>6-Dragonite</P>
+### 1. Nesse projeto e posivel você ver o Poder de Luta, HP (VIDA), Velocidade Habilidades, Defesa, de cada um dos GUERREIROS Z
+####  Nome dos personagens que aparece no card
+<P>1-GOKU (Migatte no goku'i)
+</P>
+<P>2-Gohan (Místico)
+</P>
+<P>3-Vegeta (Ultra Ego)
+</P>
+<P>4-Trunks-Futuro (Super Saiyajin Rage)
+</P>
+<P>5-Piccolo (Super Namekuseijin)
+</P>
+<P>6-kuririn
+</P>
 
 ## Recursos
 - Responsivo.
