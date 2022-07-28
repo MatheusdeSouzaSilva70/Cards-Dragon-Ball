@@ -17,7 +17,7 @@
 </P>
 <P>5-Piccolo (Super Namekuseijin)
 </P>
-<P>6-kuririn
+<P>6-kuririn( Dragon Ball Super )
 </P>
 
 ## Recursos
