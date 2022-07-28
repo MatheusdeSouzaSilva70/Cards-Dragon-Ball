@@ -1,6 +1,6 @@
 
 # Cards-Dragon-Ball 
-<img src="https://github.com/MatheusdeSouzaSilva70/Projeto-Pokedex/blob/main/pokedex-main/src/images/28.07.2022_11.29.36_REC.png" alt="Projeto-Pokedex">
+<img src="https://github.com/MatheusdeSouzaSilva70/Cards-Dragon-Ball/blob/main/src/projeto/img%20card%20dragon%20ball.png" alt="Projeto-Pokedex">
 
 > Projeto pessoal de cards dos personagens do meu Anime favorito Dragon Ball.
 
